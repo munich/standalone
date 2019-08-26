@@ -1,18 +1,18 @@
 {
-    "name": "devnet",
-    "messagePrefix": "DARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 30,
-    "nethash": "2a44f340d76ffc3df204c5f38cd355b7496c9065a1ade2ef92071436bd72e867",
-    "wif": 170,
-    "slip44": 1,
-    "aip20": 1,
-    "client": {
-        "token": "DARK",
-        "symbol": "DѦ",
-        "explorer": "https://dexplorer.ark.io"
-    }
+  "name": "devnet",
+  "messagePrefix": "Vini message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 30,
+  "nethash": "c2ec7694b97709fb6cd7e6a7ede187a83d78b52a113f2255ddb5276a9f73013a",
+  "wif": 180,
+  "slip44": 1,
+  "aip20": 1,
+  "client": {
+    "token": "Vini",
+    "symbol": "vini",
+    "explorer": "http://0.0.0.0:4200"
+  }
 }
